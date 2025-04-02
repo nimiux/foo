@@ -16,7 +16,7 @@ Este proyecto pertenece al curso sobre *git+docker* del ISMIE
 
 Para colaborar en el proyecto sigue los pasos indicados en la imagen
 
-![Push your commits](assets/execute-code.png)
+![Push your commits](/assets/execute-code.png)
 
 ## Más código en:
 
